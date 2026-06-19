@@ -1,84 +1,46 @@
 # CompTIA A+ Core 1 Notes
 
-This repository contains my personal study notes, hands-on labs, troubleshooting exercises, command references, and practical learning materials for the CompTIA A+ Core 1 certification.
+This repository contains my personal study notes, labs, troubleshooting exercises, and objective-by-objective documentation for the **CompTIA A+ Core 1 (220-1201)** certification.
 
-The goal of this repository is not only to prepare for the exam but also to develop real-world IT support, hardware, networking, mobile device, virtualization, and troubleshooting skills.
-
----
-
-## Topics Covered
-
-* Mobile Devices
-* Networking Fundamentals
-* Network Hardware
-* TCP/IP & Ports
-* Wireless Technologies
-* Computer Hardware
-* Motherboards & CPUs
-* Memory & Storage
-* Printers
-* Virtualization
-* Cloud Computing
-* Hardware Troubleshooting
-* Network Troubleshooting
-* Cabling & Connectors
-* Power Protection
+The purpose of this repository is to build strong IT fundamentals while creating a long-term reference for hardware, networking, mobile devices, virtualization, cloud computing, and troubleshooting concepts.
 
 ---
 
-## Lab Environment
+## Certification
 
-Current practice environment:
+🎓 **CompTIA A+ Certified**
 
-* Windows PC
-* Linux Mint VM (VirtualBox)
-* Mobile Devices (Android)
-* Home Network Equipment
-* Virtual Machines
-* Networking Labs
+* Core 1 (220-1201)
+* Core 2 (220-1202)
 
 ---
+
+## Certificate
+
+> Upload your certificate image to the repository and update the path below.
+
+```markdown
+![CompTIA A+ Certificate](images/comptia-a-plus-certificate.jpg)
+```
+
+Example:
+
+![CompTIA A+ Certificate](images/comptia-a-plus-certificate.jpg)
+
 
 ## Repository Structure
 
 ```text
-Comptia-AplusCore1Notes/
+Comptia-Aplus/Core1Notes/
 │
 ├── Domain1-MobileDevices/
-│   ├── Objective1.1.md
-│   ├── Objective1.2.md
-│   ├── Objective1.3.md
-│   └── Objective1.4.md
-│
 ├── Domain2-Networking/
-│   ├── Objective2.1.md
-│   ├── Objective2.2.md
-│   ├── Objective2.3.md
-│   ├── Objective2.4.md
-│   ├── Objective2.5.md
-│   ├── Objective2.6.md
-│   ├── Objective2.7.md
-│   └── Objective2.8.md
-│
 ├── Domain3-Hardware/
-│   ├── Objective3.1.md
-│   ├── Objective3.2.md
-│   ├── Objective3.3.md
-│   ├── Objective3.4.md
-│   ├── Objective3.5.md
-│   └── Objective3.6.md
-│
 ├── Domain4-VirtualizationCloud/
-│   ├── Objective4.1.md
-│   ├── Objective4.2.md
-│   └── Objective4.3.md
-│
 ├── Domain5-HardwareNetworkTroubleshooting/
-│   ├── Objective5.1.md
-│   ├── Objective5.2.md
-│   ├── Objective5.3.md
-│   ├── Objective5.4.md
-│   └── Objective5.5.md
+│
+├── images/
+│   └── comptia-a-plus-certificate.jpg
 │
 └── README.md
 ```
@@ -88,35 +50,23 @@ Comptia-AplusCore1Notes/
 ## Goals
 
 * Build strong IT fundamentals
-* Understand computer hardware and networking
-* Learn real-world troubleshooting methods
-* Practice hands-on labs and diagnostics
-* Prepare for CompTIA A+ Core 1 certification
-* Build a foundation for Networking and Cybersecurity
-
----
-
-## Skills Developed
-
-* PC Hardware Installation & Upgrades
-* Mobile Device Support
-* Network Configuration
-* Wi-Fi Troubleshooting
-* Cable Identification
-* Printer Support
-* Virtualization Concepts
-* Cloud Computing Fundamentals
-* Hardware Diagnostics
-* Network Troubleshooting Methodology
+* Develop practical troubleshooting skills
+* Create objective-by-objective study notes
+* Maintain a long-term technical reference
+* Strengthen networking and hardware knowledge
+* Prepare for advanced certifications such as CCNA, Security+, and Linux+
 
 ---
 
 ## Progress
 
-This repository will continue to grow as I study, build labs, and gain hands-on experience with IT support technologies.
+This repository will continue to grow as I organize and improve my notes, labs, and troubleshooting documentation.
 
 ---
 
 ## Author
 
-Jagdish Poudel
+**Jagdish Poudel**
+
+CompTIA A+ Certified (220-1201 & 220-1202)
+
