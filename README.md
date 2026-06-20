@@ -72,9 +72,10 @@ images/comptia-a-plus-certificate.jpg
 
 After uploading the certificate image, uncomment and update the path if necessary:
 
-```markdown
+
 ![CompTIA A+ Certificate](images/comptia-a-plus-certificate.jpg)
-```
+
+
 
 ---
 
