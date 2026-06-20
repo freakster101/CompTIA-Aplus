@@ -1,77 +1,97 @@
 # CompTIA A+ Notes
 
-This repository contains my personal study notes for the CompTIA A+ certification.
+Personal study notes, troubleshooting references, and practical learning materials created while preparing for the CompTIA A+ certification.
 
-The notes are organized according to the official CompTIA A+ exam objectives and are intended to help reinforce concepts through structured note-taking and hands-on practice.
+---
+
+## About
+
+This repository contains my personal notes for the CompTIA A+ certification. The notes follow the official CompTIA exam objectives and were created to reinforce learning through structured note-taking, revision, and hands-on practice.
+
+---
+
+## Certification Status
+
+🏆 **CompTIA A+ Certified**
+
+* Core 1 (220-1201) Passed
+* Core 2 (220-1202) Passed
+* Certification Date: June 17, 2026
+* Valid Through: June 17, 2029
 
 ---
 
 ## Repository Structure
 
-```text
-CompTIA-APlus-Notes/
-│
-├── Core1Notes/
-│   ├── Domain1-MobileDevices/
-│   ├── Domain2-Networking/
-│   ├── Domain3-Hardware/
-│   ├── Domain4-VirtualizationAndCloud/
-│   └── Domain5-HardwareAndNetworkTroubleshooting/
-│
-├── Core2Notes/
-│   ├── Domain1-OperatingSystems/
-│   ├── Domain2-Security/
-│   ├── Domain3-SoftwareTroubleshooting/
-│   └── Domain4-OperationalProcedures/
-│
-└── README.md
-```
+### Core 1 Notes
+
+* [Domain 1 - Mobile Devices](./Core1Notes/Domain-1)
+* [Domain 2 - Networking](./Core1Notes/Domain-2)
+* [Domain 3 - Hardware](./Core1Notes/Domain-3)
+* [Domain 4 - Virtualization and Cloud Computing](./Core1Notes/Domain-4)
+* [Domain 5 - Hardware and Network Troubleshooting](./Core1Notes/Domain-5)
+
+### Core 2 Notes
+
+* [Domain 1 - Operating Systems](./Core2Notes/Domain-1)
+* [Domain 2 - Security](./Core2Notes/Domain-2)
+* [Domain 3 - Software Troubleshooting](./Core2Notes/Domain-3)
+* [Domain 4 - Operational Procedures](./Core2Notes/Domain-4)
 
 ---
 
-## Purpose
+## Objectives
 
-- Study CompTIA A+ objectives in a structured manner
-- Create concise and practical notes
-- Build strong IT support fundamentals
-- Develop troubleshooting skills
-- Prepare for future certifications such as:
-  - Network+
-  - Security+
-  - CCNA
-  - Linux+
+This repository was created to:
 
----
+* Study CompTIA A+ objectives in a structured manner
+* Build strong IT support fundamentals
+* Improve troubleshooting methodology
+* Create a personal technical knowledge base
+* Document the certification journey
+* Prepare for future certifications and technologies
 
-## Certification
+### Future Learning Path
 
-**CompTIA A+ Certified**
-
-- Core 1 (220-1201)
-- Core 2 (220-1202)
-
-**Certification Date:** June 17, 2026
+* CCNA
+* Security+
+* Python Automation
+* Linux Administration
+* Infrastructure & Operations
+* Cyber Security
 
 ---
 
 ## Certificate
 
-Add your certificate image inside the repository and update the filename below:
+Certification image:
 
+```text
+images/comptia-a-plus-certificate.jpg
+```
 
+After uploading the certificate image, uncomment and update the path if necessary:
 
 ```markdown
-![CompTIA A+ Certificate](Images/comptia-a-plus-certificate.jpg)
+![CompTIA A+ Certificate](images/comptia-a-plus-certificate.jpg)
 ```
 
 ---
 
 ## Progress
 
-This repository will continue to grow as I expand my notes, labs, and practical IT knowledge.
+This repository will continue to grow with:
+
+* Updated notes
+* Troubleshooting examples
+* Lab exercises
+* Additional learning resources
+* Practical IT knowledge gained through study and experience
 
 ---
 
 ## Author
 
 **Jagdish Poudel**
+
+CompTIA A+ Certified | Aspiring Infrastructure & Network Professional
